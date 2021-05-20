@@ -16,3 +16,9 @@
 - Appele
 - Orange
 - Pear
+
+## Link & Image
+
+[Omas teacher's github](https://github.com/omas-public)
+
+![]()
